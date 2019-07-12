@@ -51,6 +51,70 @@
                     name:"home.about",
                     title:"About"
                   },
+                  {
+                    type:"menu",
+                    title:"third menu",
+                    children:[
+                      {
+                        type:"link",
+                        name:"home.welcome",
+                        title:"Welcome"
+                      },
+                      {
+                        type:"link",
+                        name:"home.about",
+                        title:"About"
+                      },
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            type:"menu",
+            title:"first menu",
+            children:[
+              {
+                type:"link",
+                name:"home.welcome",
+                title:"Welcome"
+              },
+              {
+                type:"link",
+                name:"home.about",
+                title:"About"
+              },
+              {
+                type:"menu",
+                title:"second menu",
+                children:[
+                  {
+                    type:"link",
+                    name:"home.welcome",
+                    title:"Welcome"
+                  },
+                  {
+                    type:"link",
+                    name:"home.about",
+                    title:"About"
+                  },
+                  {
+                    type:"menu",
+                    title:"third menu",
+                    children:[
+                      {
+                        type:"link",
+                        name:"home.welcome",
+                        title:"Welcome"
+                      },
+                      {
+                        type:"link",
+                        name:"home.about",
+                        title:"About"
+                      },
+                    ]
+                  }
                 ]
               }
             ]
